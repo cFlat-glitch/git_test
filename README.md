@@ -1,3 +1,3 @@
 # Odin Project
-# Foundation, Git Basics
+# Foundation --> Git Basics
 # Hello Odin!
