@@ -1,0 +1,16 @@
+Use Atomic Commits
+Make one commit for each new feature.
+
+Why Atomic Commits?
+1) Revert 1 problematic change without losing previous changes.
+2) Shorter commit messages.
+
+Seven rules for good commit messages
+1) Have a title/subject and body if message need to be detailed.
+2) Subject < 50 characters.
+3) Do begin title with capital letter.
+4) Do not end title with punctuation.
+5) Write in imperative mood as if giving instructions or demands.
+6) Body < 72 characters.
+7) Main focus is what and why something changed. Waste no words explaining how, that's what code's for.
+Article source: https://cbea.ms/git-commit/#wrap-72
