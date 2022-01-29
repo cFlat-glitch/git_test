@@ -7,3 +7,6 @@ git status checks the file status (modified, staged or committed)
 git add stages a modified file to the staging area to be part of next commit snapshot.
 git commit -m <message> will push an update into the .git repository. Make sure message contains staged file names as well as describing the change.
 git log shows a history of commits.
+
+Remember that git commit pushes to local repository, to push to main repository on github, use git push command.
+git push <origin or whatever branch> <main>
