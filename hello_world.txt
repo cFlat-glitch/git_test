@@ -1,0 +1,8 @@
+This is part of exercise for the Foundation section of Odin Project, the lesson is Git basics.
+
+In summary,
+
+git remote is for managing remotes (set of repositories)
+git status checks the file status (modified, staged or committed)
+git add stages a modified file to the staging area to be part of next commit snapshot.
+git commit -m <file> will push an update into the .git repository.
